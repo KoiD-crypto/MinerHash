@@ -1,0 +1,2 @@
+# MinerHash
+For mining NicehHasH
